@@ -33,5 +33,10 @@ Negative contributions are shown in blue, they reduce yields.
 ****
 ## Recommendations  
 
-Based on these insights, we can recommend promoting effective fertilizer methods, especially mineral soil applications. We can also suggest targeted support for regions like Vaishali that face challenges. Finally, educating farmers on specific land preparation methods can also boost productivity. By sharing these findings, we can help farmers make better-informed decisions for sustainable farming.
+Based on these insights, we can make some recommenddations:
+- promoting effective fertilizer methods, especially mineral soil applications;
+- targeted support for regions like Vaishali that face challenges (The Vaishali district in India generally has alluvial soil, which is fertile and suitable for agriculture. However, there are issues such as waterlogging and flooding during the monsoon season, which can negatively impact agriculture. Additionally, access to modern agricultural techniques and infrastructure may be limited, which can affect crop yields and soil management practices in the region);
+- educating farmers on specific land preparation methods can also boost productivity.
+
+By sharing these findings, we can help farmers make better-informed decisions for sustainable farming.
 
