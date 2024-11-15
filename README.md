@@ -5,7 +5,7 @@ The goal of this project is to find insights on predicting crop yields of rice i
 
 The **dataset** can be found on [Kaggle](https://www.kaggle.com/datasets/sudhanshu2198/crop-yield-prediction-hachathon/data). The data is from 2022 and includes 43 features related to farming practices, fertilizer use, and crop cycle dates. 
 
-We used a CatBoost regression model, which works well with complex data. Our model achieved a *Mean Absolute Error* of 192 and an *R-squared* score of 0.67, meaning it explains about 67% of the variation in crop yields. This provides a reasonably accurate prediction but still leaves room for improvement.
+We used a **CatBoost regression** model, which works well with complex data. Our model achieved a *Mean Absolute Error* of 192 and an *R-squared* score of 0.67, meaning it explains about 67% of the variation in crop yields. This provides a reasonably accurate prediction but still leaves room for improvement.
 ****
 
 ## Interpreting the model
@@ -22,7 +22,7 @@ To understand our model’s predictions, we used interpretability tools, LIME an
 - 
 **Feature Values**: On the right, each feature’s value is shown for this specific instance. For example, onehot__District_Vaishali has a value of 1.0 (indicating this instance is in the district of Vaishali), and scaler__BasalUrea has a value of -0.24.
 
-****
+***
   ### SHAP
 <img width="1022" alt="Screenshot 2024-11-15 at 1 41 29 PM" src="https://github.com/user-attachments/assets/8a46a873-d7a8-44a5-b2e8-bf5e35a6329d">
 
